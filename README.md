@@ -117,5 +117,5 @@ curl --location --request GET 'http://localhost:8000/api/prueba-tyba-ms/transact
 Para correr los test unitarios:
 
 ```
-$ npm run test
+$ npm test
 ```
